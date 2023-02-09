@@ -35,10 +35,9 @@
   ### My favorite IDEs
   
   <div>
-    <img align="center" alt="Ricarte-Intellij" height="30" width="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-">
+  <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"></a>
 
-  <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 
   </div>
   
