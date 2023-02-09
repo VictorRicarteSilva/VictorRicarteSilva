@@ -29,8 +29,29 @@
   <img align="center" alt="Ricarte-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ricarte-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Ricarte-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- ### My favorite IDEs
- <img align="center" alt="Ricarte-IDE" height="30" width="40" src="file:///C:/Users/victo/Downloads/jetbrains_rider_button_icon_151875.svg
+  </div>
+  
+  ##
+  ### My favorite IDEs
+  
+  <div>
+    <img align="center" alt="Ricarte-Intellij" height="30" width="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 ">
 
+  <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+
+  </div>
+  
+  
+  ##
+  ### How to find me
+  
+<div> 
+
+  <a href="https://www.instagram.com/victorricarte__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorricarte155@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorricarte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
+
+##
