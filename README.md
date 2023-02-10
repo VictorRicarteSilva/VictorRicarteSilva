@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on C/C++, C# and Java for back-end;
 - 🌱 I’m learning C/C++, C# and Java and trying to learn Unity at the moment;
 - 👯 I’m willing to collaborate on open source games or related things;
-- 🤔 I’m looking for help in finding a job 😅;
+- 🤔 I’m looking for a job 😅;
 - 💬 Ask me about how to get willpower out of thin air;
-- 📫 How to reach me: try my email victorricarte155@gmail.com;
+- 📫 How to reach me: Send me an email victorricarte155@gmail.com;
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love languages like java, C++ and I think python is ugly;
 
