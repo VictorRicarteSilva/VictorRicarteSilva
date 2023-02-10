@@ -8,7 +8,7 @@ on:
     - cron: "0 */5 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+
 
 # Regras
 jobs:
