@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on C# for back-end;
 - 🌱 I’m learning C/C++, C# and Java and trying to learn Unity at the moment;
 - 👯 I’m willing to collaborate on open source games or related things;
-- 🤔 I’m Working by trainee at TechOne;
+- 🤔 I’m Working as a trainee at TechOne;
 - 💬 Ask me about how to get willpower out of thin air;
 - 📫 How to reach me: Send me an email victorricarte155@gmail.com;
 - 😄 Pronouns: He/Him
