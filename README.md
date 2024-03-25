@@ -1,44 +1,44 @@
-## Hello World, I am Victor Ricarte Silva 👋
+## Olá Mundo, sou Victor Ricarte Silva 👋
 
-- 🔭 I’m currently working on C# for back-end;
-- 🌱 I’m learning C/C++, C# and Java and trying to learn Unity at the moment;
-- 👯 I’m willing to collaborate on open source games or related things;
-- 🤔 I’m Working as a trainee at TechOne;
-- 💬 Ask me about how to get willpower out of thin air;
-- 📫 How to reach me: Send me an email victorricarte155@gmail.com;
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love languages like java, C# and I think python is ugly;
+- 🔭 Atualmente estou trabalhando em C# para back-end;
+- 🌱 Estou aprendendo C/C++, C# e Java e tentando aprender Unity no momento;
+- 👯 Estou disposto a colaborar em jogos de código aberto ou coisas relacionadas;
+- 🤔 Estou buscando uma nova oportunidade para trabalhar com C#;
+- 💬 Pergunte-me como tirar a força de vontade do nada;
+- 📫 Como entrar em contato comigo: Envie-me um e-mail victorricarte155@gmail.com;
+- Pronomes 😄: Ele/Ele
+- ⚡ Curiosidade: adoro linguagens como java, C#;
 
 ##
-### My Stats
+### Minhas estatísticas
 
 <div>
   <a href="https://github.com/VictorRicarteSilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRicarteSilva&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorRicarteSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRicarteSilva&layout=compacto&langs_count=7&tema=dark"/>
+    <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=VictorRicarteSilva&mostrar_icons=true&tema=dark&incluir_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 ## 
-### My favorite languages
+### Minhas línguas favoritas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ricarte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Ricarte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ricarte-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Ricarte-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Ricarte-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ricarte-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div estilo="exibição: inline_block"><br>
+  <img alinhar="centro" alt="Ricarte-CSS" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alinhar="centro" alt="Ricarte-HTML" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alinhar="centro" alt="Ricarte-Java" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img alinhar="centro" alt="Ricarte-C" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alinhar="centro" alt="Ricarte-Cplusplus" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alinhar="centro" alt="Ricarte-Csharp" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
   
   ##
-  ### My favorite IDEs
+  ### Meus IDEs favoritos
   
   <div>
-  <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"></a>
-  <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/pt-br/rider/" alvo="_em branco"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/pt-br/idea/" alvo="_em branco"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
   <a href="https://www.jetbrains.com/pt-br/clion/
-" target="_blank"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
+" alvo="_em branco"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
   </div>
   
   ##
