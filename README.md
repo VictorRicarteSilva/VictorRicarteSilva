@@ -3,7 +3,7 @@
   - 🔭 I am working with C# for back-end;
   - 🌱 I am learning about Docker, Kubernetes, Blazor and Angular;
   - 🤔 I am looking for a new opportunit to work with C# and associated tecnologies;
-  - Pronouns 😄: he/him;
+  - 😄 Pronouns: he/him;
     
 ## My Stats
 
