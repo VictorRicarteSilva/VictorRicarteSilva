@@ -56,6 +56,13 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
+
+#### 💻 Hardware Specs:
+
+![Laptop](https://img.shields.io/badge/Windows-Acer_Aspire_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![CPU](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+![GPU](https://img.shields.io/badge/Intel-UHDGraphics-0071C5?style=for-the-badge&logo=intel&logoColor=white)&nbsp;
+![RAM](https://img.shields.io/badge/20GB-RAM-999999?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 &nbsp;
 &nbsp;
 
