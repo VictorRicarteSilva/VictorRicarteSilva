@@ -22,6 +22,7 @@
 
 <img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=VictorRicarteSilva&show_icons=true&theme=radical&layout=compact" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
@@ -45,6 +46,7 @@
 #### Workstation Tools:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
