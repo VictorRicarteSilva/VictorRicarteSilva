@@ -7,14 +7,12 @@
     
 ## My Stats
 
-</p>&nbsp;
-<p align="center">
-  
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=VictorRicarteSilva&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=VictorRicarteSilva&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div aling="center" style="margin-botton:100px"> 
  
+![stats](https://github-readme-stats.vercel.app/api?username=VictorRicarteSilva&show_icons=true&theme=radical)&nbsp;
+![stats](https://github-readme-streak-stats.herokuapp.com?user=VictorRicarteSilva&theme=radical&mode=weekly)&nbsp;
+</div>
+
  &nbsp;
  &nbsp;
 
@@ -22,11 +20,11 @@
 
 #### Main Stack:
 
+<img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=VictorRicarteSilva&show_icons=true&theme=radical&layout=compact" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
@@ -45,6 +43,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 
 #### Workstation Tools:
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
