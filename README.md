@@ -71,6 +71,8 @@
 </a>
  <a href="https://web.dio.me/users/victorricarte155" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/DIO-cornflowerblue?style=for-the-badge&logo=d&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Fvictorricarte155">
  </a>
+ <a href="https://linktr.ee/VictorRicarteSilva" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Certificados-limegreen?style=for-the-badge&logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FVictorRicarteSilva">
+ </a>
 </div>&nbsp;&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
