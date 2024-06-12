@@ -4,7 +4,7 @@
   - 🌱 I am learning about Docker, Kubernetes, Blazor and Angular;
   - 🤔 I am looking for a new opportunit to work with C# and associated tecnologies;
   - 😄 Pronouns: he/him;
-    
+
 ## My Stats
 
 <div  align="center" style="margin-bottom:100px">
