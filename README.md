@@ -1,8 +1,8 @@
  ## Hello World, I am Victor Ricarte Silva 👋
   
-  - 🔭 I am working with C# for back-end;
-  - 🌱 I am learning about Docker, Kubernetes, Blazor and Angular;
-  - 🤔 I am looking for a new opportunit to work with C# and associated tecnologies;
+  - 🔭 I am working with .NET for back-end;
+  - 🌱 I am learning about Docker, Kubernetes;
+  - 🤔 I am looking for a new opportunit to work with .NET and associated tecnologies;
   - 😄 Pronouns: he/him;
 
 ## My Stats
@@ -31,7 +31,7 @@
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-D42E2E?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+<!--![Next](https://img.shields.io/badge/angular-D42E2E?style=for-the-badge&logo=angular&logoColor=white)&nbsp; -->
 ![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
 
 #### Databases:
